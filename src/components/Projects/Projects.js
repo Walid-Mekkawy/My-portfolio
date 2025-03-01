@@ -25,9 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Eduxa"
+              title="Eduxa Portal"
               description="Working on developing and monitoring a website for Sinbad Company called “Eduxa” to display and reserve programs and courses at institutes and universities that have a partnership with Sinbad Company."
-              ghLink="https://github.com/Eduxa-Team/frontend"
               demoLink="https://stg.eduxa.com/en"
             />
           </Col>
@@ -36,9 +35,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="dashboard"
+              title="Eduxa Dashboard"
               description="Through the dashboard, the admin can enter and manage data and control the display on the main site."
-              ghLink="https://github.com/Eduxa-Team/dashboard"
               demoLink="https://stg-dashboard.eduxa.com/home"
             />
           </Col>
@@ -49,8 +47,8 @@ function Projects() {
               isBlog={false}
               title="freshcart"
               description="FreshCart is a beautifully designed, expertly crafted components UI kit for building a high-quality website and web apps using web technologies — HTML, TailwindCSS, and JavaScript — with integrations of the world’s most popular Bootstrap Javascript Plugins."
-              ghLink="https://github.com/Walid-Mekkawy/freshcart-E-commerce-"
-              demoLink="http://192.168.1.10:3200"              
+              // ghLink="https://github.com/Walid-Mekkawy/freshcart-E-commerce-"
+              demoLink="https://github.com/Walid-Mekkawy/freshcart-E-commerce-"              
             />
           </Col>
 
