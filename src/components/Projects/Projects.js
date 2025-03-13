@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Eduxa Portal"
               description="Working on developing and monitoring a website for Sinbad Company called “Eduxa” to display and reserve programs and courses at institutes and universities that have a partnership with Sinbad Company."
-              demoLink="https://stg.eduxa.com/en"
+              demoLink="https://eduxa.com/en"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Eduxa Dashboard"
               description="Through the dashboard, the admin can enter and manage data and control the display on the main site."
-              demoLink="https://stg-dashboard.eduxa.com/home"
+              demoLink="https://dashboard.eduxa.com/home"
             />
           </Col>
 
